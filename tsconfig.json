@@ -22,7 +22,7 @@
     "types": ["vite/client", "vitest"]
   },
   "files": [],
-  "include": [],
+  "include": ["./jest-setup.ts"],
   "references": [
     {
       "path": "./tsconfig.app.json"
